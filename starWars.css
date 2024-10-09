@@ -23,7 +23,11 @@
     background-color: #313030 !important;
 }
 
-.fondoRojo{
+.fondoNegro{
+    background-color: rgb(17, 0, 33) !important;
+}
+
+.fondoAmarillo{
     background-color: yellow !important;
 }
 
@@ -44,7 +48,11 @@
 }
 
 a:hover{
-    color:#CA0000 !important;
+    color: yellow !important;
+}
+
+.planta{
+    color: rgb(255, 187, 0) !important;
 }
 
 /*Scroll para menús*/
@@ -53,36 +61,3 @@ a:hover{
     max-height: 200px;
     overflow-x: hidden;
 }
-
-/*Color de relleno para el icono de la Pokébal*/
-
-/*
-#rellenoPokeball{
-    fill: #313030;
-}
-
-.menuRojo{
-    margin-top: 102.06px;
-}
-
-
-.fondoPlanta{
-    background-color: #74CB48;
-}
-
-.planta{
-    color: #74CB48;
-}
-
-.fondoVeneno{
-    background-color: #A43E9E;
-}
-
-.fondoFuego{
-    background-color: #F57D31;
-}
-
-.fondoVolador{
-    background-color: #A891EC;
-}
-*/
