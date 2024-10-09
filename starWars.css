@@ -1,0 +1,88 @@
+/*TIPOGRAFÍA "JOCKEY ONE"*/
+.jockey-one-regular {
+    font-family: "Jockey One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*Tamaño estándar para la tipografía Jockey One*/
+.tamanhoEstandar{
+    font-size: 20px;
+}
+
+.sombreado{
+    box-shadow: 0px 0px 10px black;
+}
+
+.bordeCaja{
+    border-style: solid !important;
+    border-color: #313030 !important;
+}
+
+.fondoNegroEstandar{
+    background-color: #313030 !important;
+}
+
+.fondoRojo{
+    background-color: yellow !important;
+}
+
+.fondoGrisClaro{
+    background-color: #C9C9C9 !important;
+}
+
+.fondoGris{
+    background-color: rgb(128, 127, 127) !important;
+}
+
+.blanco{
+    color: #FAF6F6 !important;
+}
+
+.gris{
+    color: #707266 !important;
+}
+
+a:hover{
+    color:#CA0000 !important;
+}
+
+/*Scroll para menús*/
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
+/*Color de relleno para el icono de la Pokébal*/
+
+/*
+#rellenoPokeball{
+    fill: #313030;
+}
+
+.menuRojo{
+    margin-top: 102.06px;
+}
+
+
+.fondoPlanta{
+    background-color: #74CB48;
+}
+
+.planta{
+    color: #74CB48;
+}
+
+.fondoVeneno{
+    background-color: #A43E9E;
+}
+
+.fondoFuego{
+    background-color: #F57D31;
+}
+
+.fondoVolador{
+    background-color: #A891EC;
+}
+*/
