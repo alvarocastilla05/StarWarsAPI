@@ -8,7 +8,7 @@ $(document).ready(function () {
       }).done(function (resp) {
         var listadoPersonajes = resp.results;
         listadoPersonajes.forEach(function (personaje) {
-            var personajeId = personaje.url.split("/")[6];
+            var personajeId = personaje.url.split("/")[5];
             var template = `<div class="card border-0 jockey-one-regular mx-3 my-4" style="width: 290px;">
         
                 <a href="./detalles.html?pid=${personajeId}">
